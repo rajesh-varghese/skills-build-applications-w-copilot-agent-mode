@@ -1,3 +1,12 @@
+# Python virtual environments
+octofit-tracker/backend/venv/
+
+# Byte-compiled / cache
+__pycache__/
+.pytest_cache/
+
+# OS files
+.DS_Store
 .DS_Store
 
 # Virtual Environment
